@@ -1,0 +1,2 @@
+run,split,pipeline,model,inference,total_tokens,total_prompt_tokens,total_completion_tokens,total_time,total_completion_time,total_api_calls,total_costs,avg_total_tokens,avg_prompt_tokens,avg_completion_tokens,avg_total_time,avg_completion_time,avg_api_calls,avg_costs
+logs/20240214_172228,jaegermeister.curated@0.6.0,paragraph-corrector@1.1.0,gpt-3.5-turbo-0613,instr,18734.0,15715.0,3019.0,45.95346733293263,45.85184312687488,61.0,0.0296105,2676.285714285714,2245.0,431.2857142857143,6.564781047561804,6.550263303839269,8.714285714285714,0.0042300714285714285

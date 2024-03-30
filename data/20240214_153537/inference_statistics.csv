@@ -1,0 +1,2 @@
+run,split,pipeline,model,inference,total_tokens,total_prompt_tokens,total_completion_tokens,total_time,total_completion_time,total_api_calls,total_costs,avg_total_tokens,avg_prompt_tokens,avg_completion_tokens,avg_total_time,avg_completion_time,avg_api_calls,avg_costs
+logs/20240214_153537,jaegermeister.curated@0.6.0,zeroshot-index@3.0.0,gpt-3.5-turbo-0613,chat,3685.0,2611.0,1074.0,16.396555751911364,16.384789460047614,7.0,0.0060645,526.4285714285714,373.0,153.42857142857142,2.342365107415909,2.3406842085782307,1.0,0.0008663571428571428

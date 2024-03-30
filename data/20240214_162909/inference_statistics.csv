@@ -1,0 +1,2 @@
+run,split,pipeline,model,inference,total_tokens,total_prompt_tokens,total_completion_tokens,total_time,total_completion_time,total_api_calls,total_costs,avg_total_tokens,avg_prompt_tokens,avg_completion_tokens,avg_total_time,avg_completion_time,avg_api_calls,avg_costs
+logs/20240214_162909,jaegermeister.curated@0.6.0,self-consistent-explainer@3.1.0,gpt-3.5-turbo-0613,chat,76495.0,61079.0,15416.0,112.3978748350055,112.10204975085799,154.0,0.12245049999999999,10927.857142857143,8725.57142857143,2202.285714285714,16.056839262143644,16.014578535836854,22.0,0.01749292857142857
