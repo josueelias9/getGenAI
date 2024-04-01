@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T14:39:15.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Zeki_hXPPZvFDcj1k6F7" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T14:43:19.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aF-VQO06Oc1FvFjGjgg4" version="24.2.1" type="github">
   <diagram name="Página-1" id="wdikNAvu4fVzjbENS6Ey">
-    <mxGraphModel dx="4664" dy="1258" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3332" dy="468" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -306,7 +306,7 @@
             <mxPoint x="-750" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EZTIpuJdJA3_rajfql1Y-100" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Coments&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;when there is a new violation, there is no need to train the complete pipeline, just run again the indexer&lt;/li&gt;&lt;li&gt;there is no need for the model to learn what policies belong to a business. This is covered with a many to many relationship in a database.&amp;nbsp;&lt;/li&gt;&lt;li&gt;model doent have to learn what are the violation. It doesn need to learn what are the tokens of voilations, it should only focus on learning how to find a sentence in a paragraph that matches another given sentence&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EZTIpuJdJA3_rajfql1Y-100" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Coments&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;when there is a new violation, there is no need to train the complete pipeline, just run again the indexer&lt;/li&gt;&lt;li&gt;there is no need for the model to learn what policies belong to a business. This is covered with a many to many relationship in a database.&amp;nbsp;&lt;/li&gt;&lt;li&gt;model doent have to learn what are the violation. It doesn need to learn what are the tokens of voilations, it should only focus on learning how to find a sentence in a paragraph that matches another given sentence (advantage: can traiin the model with a bast amount of data)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1328" y="1383" width="380" height="192" as="geometry" />
         </mxCell>
       </root>
